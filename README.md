@@ -127,14 +127,17 @@ john --show --format=PDF "pdf hash2.txt"
 ```
 
 **Screenshot 4 – PDF 2 Hash Extraction**
+<img width="930" height="627" alt="1000162657" src="https://github.com/user-attachments/assets/aa84c5b9-c45e-4c3f-a4de-b3487910fa5b" />
 
 
 
 **Screenshot 5 – PDF 2 Password Recovery Using NW Tools**
 
+<img width="923" height="620" alt="1000162658" src="https://github.com/user-attachments/assets/47b1b14f-edf9-488a-aaa7-35fbc98064c2" />
 
 
 **Screenshot 6 – PDF 2 Password Cracking Using John**
+<img width="1366" height="643" alt="1000162673" src="https://github.com/user-attachments/assets/f107aa37-43d1-429b-bb2d-67b40bdfda5c" />
 
 
 ### PDF 3 – Password Recovery
@@ -151,13 +154,16 @@ john --show --format=PDF "pdf hash3.txt"
 
 **Screenshot 7 – PDF 3 Hash Extraction**
 
+<img width="939" height="628" alt="1000162664" src="https://github.com/user-attachments/assets/6bfb3374-60ff-4e51-b6c2-3ea70f3daeb2" />
 
 
 **Screenshot 8 – PDF 3 Password Recovery Using NW Tools**
 
+<img width="1013" height="636" alt="1000162665" src="https://github.com/user-attachments/assets/17d48015-1557-40f1-9428-da1134125c08" />
 
 **Screenshot 9 – PDF 3 Password Cracking Using John**
 
+<img width="1366" height="643" alt="1000162675" src="https://github.com/user-attachments/assets/a59a54e9-5f85-4277-a531-93c12adc46e0" />
 
 ---
 
