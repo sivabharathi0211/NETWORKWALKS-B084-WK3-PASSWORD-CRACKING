@@ -71,6 +71,7 @@ The NW Hash Calculator is a browser-based tool provided by Networkwalks.
 
 
 **PDF 1**
+
 <img width="400" height="505" alt="Screenshot 2026-11-20 135000" src="https://github.com/user-attachments/assets/b52141f3-45c5-4932-92ad-fbe47dcc2c32" />
 
 
@@ -149,6 +150,7 @@ john --show --format=PDF "pdf hash2.txt"
 
 
 **PDF 2**
+
 <img width="460" height="569" alt="Screenshot 2026-11-16 221441" src="https://github.com/user-attachments/assets/f0aecee0-ad89-4f31-ad4f-5ae22778c64c" />
 
 
